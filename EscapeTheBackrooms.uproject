@@ -1,6 +1,12 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{6C6CBE6A-4698-2C78-D92E-1BB2D7C56835}",
+	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "UnrealAutoMod",
+			"Enabled": true
+		}
+	]
 }
