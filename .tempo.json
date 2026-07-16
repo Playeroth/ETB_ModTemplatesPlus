@@ -1,11 +1,11 @@
 {
   "engine_info": {
-    "unreal_project_file": "C:/Users/Playeroth/Documents/GameModding/ETB_ModTemplatesPlus/EscapeTheBackrooms.uproject",
+    "unreal_project_file": "C:/Users/Playeroth/Documents/GameModding/ETB_PYSourceOfAll/EscapeTheBackrooms.uproject",
     "unreal_engine_major_version": 4,
     "unreal_engine_minor_version": 27
   },
   "game_info": {
-    "game_exe_path": "C:/Program Files (x86)/Steam/steamapps/common/EscapeTheBackroomsBackrooms-Win64-Shipping.exe",
+    "game_exe_path": "C:/Program Files (x86)/Steam/steamapps/common/EscapeTheBackrooms/EscapeTheBackrooms/Content/Binaries/Win64/Backrooms-Win64-Shipping.exe",
     "launch_type": "exe",
     "window_title_override": "EscapeTheBackrooms"
   },
