@@ -6,7 +6,8 @@
   },
   "game_info": {
     "game_exe_path": "C:/Program Files (x86)/Steam/steamapps/common/EscapeTheBackrooms/EscapeTheBackrooms/Binaries/Win64/Backrooms-Win64-Shipping.exe",
-    "launch_type": "exe",
+    "launch_type": "steam",
+    "game_id": "1943950",
     "window_title_override": "EscapeTheBackrooms"
   },
   "git_info": {
@@ -16,12 +17,12 @@
   "process_kill_events": {
     "processes": [
       {
-        "hook_state": "constant",
+        "hook_state": "init",
         "process_name": "Fmodel",
         "use_substring_check": true
       },
       {
-        "hook_state": "constant",
+        "hook_state": "init",
         "process_name": "Umodel",
         "use_substring_check": true
       }
